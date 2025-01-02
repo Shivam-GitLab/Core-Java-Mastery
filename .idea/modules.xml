@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20 Inheritance in Java/20 Inheritance in Java.iml" filepath="$PROJECT_DIR$/20 Inheritance in Java/20 Inheritance in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 Abstraction in Java/22 Abstraction in Java.iml" filepath="$PROJECT_DIR$/22 Abstraction in Java/22 Abstraction in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23 Access Modifiers in Java/23 Access Modifiers in Java.iml" filepath="$PROJECT_DIR$/23 Access Modifiers in Java/23 Access Modifiers in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32 Java Multithreading/32 Java Multithreading.iml" filepath="$PROJECT_DIR$/32 Java Multithreading/32 Java Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core Java Mastery.iml" filepath="$PROJECT_DIR$/Core Java Mastery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32 Java Multithreading/Creating Thread/Creating Thread.iml" filepath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/Creating Thread.iml" />
+    </modules>
+  </component>
+</project>
