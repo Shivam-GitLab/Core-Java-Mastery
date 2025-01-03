@@ -79,6 +79,7 @@ class GrandParent {
     public boolean isHasSuperPower() {
         return isHasSuperPower;
     }
+    /*** */
 
 }
 
@@ -107,3 +108,4 @@ public class Solution {
        
     }
 }
+ 
