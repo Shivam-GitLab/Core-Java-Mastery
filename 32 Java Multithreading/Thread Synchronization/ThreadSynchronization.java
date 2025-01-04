@@ -16,13 +16,18 @@ public class ThreadSynchronization {
         Counter counter = new Counter();
 
         // Creating two threads that will increment the counter
-        Thread t1 = new Thread(counter);
-        Thread t2 = new Thread(counter);
+        Thread t1 = new Thread(() -> {
+            for (int i = 0; i < 1000; i++) {
+                counter.increment();
+            }
+        });
+        Thread t2 = new Thread(() -> {
+            for (int i = 0; i < 1000; i++) {
+                counter.increment();
+            }
+        });
            
-        for (int i = 0; i < 1000; i++) {
-            counter.increment();
-            
-        }
+        
         
 
         t1.start();
