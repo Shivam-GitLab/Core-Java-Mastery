@@ -1,14 +1,36 @@
 class Counter {
     private int count = 0;
 
-    // Synchronized method to ensure thread-safe increment
     public synchronized void increment() {
         count++;
     }
 
+    /* Synchronized Block */
+    // public void increment() {
+    // synchronized (this) {
+    // count++;
+    // }
+    // }
+
     public int getCount() {
         return count;
     }
+}
+
+class MyThread extends Thread {
+    private Counter counter;
+
+    public MyThread(Counter counter) {
+        this.counter = counter;
+    }
+
+    @Override
+    public void run() {
+        for (int i = 0; i < 1000; i++) {
+            counter.increment();
+        }
+    }
+
 }
 
 public class ThreadSynchronization {
@@ -16,25 +38,18 @@ public class ThreadSynchronization {
         Counter counter = new Counter();
 
         // Creating two threads that will increment the counter
-        Thread t1 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
-                counter.increment();
-            }
-        });
-        Thread t2 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
-                counter.increment();
-            }
-        });
-           
-        
-        
+        MyThread t1 = new MyThread(counter);
+        MyThread t2 = new MyThread(counter);
 
         t1.start();
         t2.start();
 
-        t1.join();
-        t2.join();
+        try {
+            t1.join();
+            t2.join();
+        } catch (Exception e) {
+            e.getMessage();
+        }
 
         // Expected output: 2000 because both threads increment the counter
         System.out.println("Count: " + counter.getCount());
