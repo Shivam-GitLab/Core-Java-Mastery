@@ -1,6 +1,7 @@
 class Counter {
     private int count = 0;
 
+    /* Critical Section */
     public synchronized void increment() {
         count++;
     }
@@ -18,7 +19,7 @@ class Counter {
 }
 
 class MyThread extends Thread {
-    private Counter counter;
+    private Counter counter ;
 
     public MyThread(Counter counter) {
         this.counter = counter;

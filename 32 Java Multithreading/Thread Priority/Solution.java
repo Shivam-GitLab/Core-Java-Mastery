@@ -10,6 +10,10 @@ class MyThread extends Thread {
     @Override
     public void run() {
         for (int i = 0; i < 5; i++) {
+            String a = "";
+            for (int j = 0; j < 1000; j++) {
+                a += "a";
+            }
             System.out.println(Thread.currentThread().getName() +
                     " Priority: " + Thread.currentThread().getPriority() + " Count: " + i);
             try {
@@ -20,7 +24,6 @@ class MyThread extends Thread {
 
     }
 }
-
 
 // Start , Run Sleep Join setPriority
 public class Solution {
@@ -37,7 +40,7 @@ public class Solution {
         l.start();
         m.start();
         h.start();
-        h.start();
+        // h.start();
         // MyThread t1 = new MyThread();
 
         // t1.start();
