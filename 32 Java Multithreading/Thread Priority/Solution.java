@@ -25,7 +25,7 @@ class MyThread extends Thread {
     }
 }
 
-// Start , Run Sleep Join setPriority
+// Start , Run Sleep Join setPriority , interrupted  , yield
 public class Solution {
     public static void main(String[] args) throws InterruptedException {
 
@@ -48,3 +48,23 @@ public class Solution {
         // System.out.println("Hello");
     }
 }
+
+/*
+1. Low Priority Thread :  Priority: 1 Count: 0
+2. Medium Priority Thread :  Priority: 5 Count: 0
+3. High Priority Thread :  Priority: 10 Count: 0
+3. High Priority Thread :  Priority: 10 Count: 1
+2. Medium Priority Thread :  Priority: 5 Count: 1
+1. Low Priority Thread :  Priority: 1 Count: 1
+3. High Priority Thread :  Priority: 10 Count: 2
+2. Medium Priority Thread :  Priority: 5 Count: 2
+1. Low Priority Thread :  Priority: 1 Count: 2
+3. High Priority Thread :  Priority: 10 Count: 3
+2. Medium Priority Thread :  Priority: 5 Count: 3
+1. Low Priority Thread :  Priority: 1 Count: 3
+2. Medium Priority Thread :  Priority: 5 Count: 4
+3. High Priority Thread :  Priority: 10 Count: 4
+1. Low Priority Thread :  Priority: 1 Count: 4
+
+Depend On JVM Or Which Type Of Code
+ */
