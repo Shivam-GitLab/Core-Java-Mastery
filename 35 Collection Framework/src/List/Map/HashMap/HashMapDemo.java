@@ -1,13 +1,14 @@
 package List.Map.HashMap;
 import java.util.*;
-
+//32:00 Minute Concept With Example
 public class HashMapDemo {
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>(17,0.5f);
+//        HashMap<Integer, String> map = new HashMap<>();
         map.put(31, "Shubham");
         map.put(11, "Akshit");
         map.put(2, "Neha");
-        map.put(2, "Mehul");
+//        map.put(2, "Mehul");
 //        map.put(null,"Sam"); // single null contain
 //        map.put(null,"Sa"); // single null contain
         System.out.println(map);
@@ -39,6 +40,6 @@ public class HashMapDemo {
         System.out.println(map);
 
         List<Integer> list = Arrays.asList(2, 4, 32, 43, 4, 432);
-        list.contains(32);
+        System.out.println(list.contains(32));
     }
 }
