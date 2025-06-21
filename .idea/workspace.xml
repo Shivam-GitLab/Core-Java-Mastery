@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48b37ca1-238b-4bf4-8191-ae17704e4848" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/18 Encapsulation in Java/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/MathOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/MobilePhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/IntermediateOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/TerminalOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/out/production/Java Streams/BeforeStreamsBasics/Java8Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/out/production/Java Streams/BeforeStreamsBasics/MathOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/out/production/Java Streams/BeforeStreamsBasics/MobilePhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/out/production/Java Streams/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36 Master Java Streams/out/production/Java Streams/Streams/StreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/out/production/genrics/genrics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/out/production/genrics/genrics/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/out/production/genrics/genrics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/out/production/genrics/genrics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/out/production/genrics/genrics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/out/production/genrics/genrics/genrics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Conditional Statements in Java/IF Else Switch/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/11 Conditional Statements in Java/IF Else Switch/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18 Encapsulation in Java/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/Java Stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/.idea/Java Stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/Java Streams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/Java Streams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/genrics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/genrics/genrics.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;Code&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;Shivam-GitLab&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shivam-GitLab/Core-Java-Mastery.git&quot;,
+    &quot;accountId&quot;: &quot;57116419-6767-456a-8c45-c5fe81821b00&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2wuaKO7CBwORXpJJYBkzJNK4I3O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Constructors.executor": "Run",
+    "Application.Encapsulations.executor": "Run",
+    "Application.Install.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="35 Collection Framework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="35 Collection Framework" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48b37ca1-238b-4bf4-8191-ae17704e4848" name="Changes" comment="" />
+      <created>1746893852088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746893852088</updated>
+      <workItem from="1746893854319" duration="154000" />
+      <workItem from="1746894031887" duration="1501000" />
+      <workItem from="1746895709835" duration="1661000" />
+      <workItem from="1749819219431" duration="445000" />
+      <workItem from="1749922304742" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
