@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01 Install Java OpenJDK on Windows 11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 What is JDK, JVM, JRE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 Skeleton of a Java Program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 Primitive Data Types in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 Properly Name Your Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 Become a Math Wiz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 Bitwise Operators in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 Println vs Print vs Printf in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09 Java Strings Explained" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10 Java String Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 Master OOP in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16 Easiest Way to Learn Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18 Encapsulation in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 Constructors in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 Polymorphism in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24 Mastering Static in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28 Master Exceptions in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/34 Java Generics Explained" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
