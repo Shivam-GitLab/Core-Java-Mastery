@@ -17,9 +17,11 @@ public class TerminalOps {
         list.stream().skip(1).toList();
 
         // 2. forEach
-        list.stream().forEach(x -> System.out.println(x));
+//        list.stream().forEach(x -> System.out.println(x));
+//        list.forEach(x -> System.out.println(x));
+        list.forEach(System.out::println);
 
-        // 3. reduce : Combines elements to produce a single result
+        // 3. reduce: Combines elements to produce a single result
         Optional<Integer> optionalInteger = list.stream().reduce(Integer::sum);
         System.out.println(optionalInteger.get());
 

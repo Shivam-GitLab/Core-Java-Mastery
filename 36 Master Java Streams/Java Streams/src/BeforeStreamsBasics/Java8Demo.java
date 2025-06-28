@@ -47,7 +47,7 @@ public class Java8Demo {
         System.out.println(and.test("Akshay"));
 
         // Function --> work for you
-        // Function<T, R> --> T is input type, R is output type
+        // Function<T, R> --> T is an input type, R is an output type
         Function<Integer, Integer> doubleIt = x -> 2 * x;
         Function<Integer, Integer> tripleIt = x -> 3 * x;
         System.out.println(doubleIt.andThen(tripleIt).apply(20));
