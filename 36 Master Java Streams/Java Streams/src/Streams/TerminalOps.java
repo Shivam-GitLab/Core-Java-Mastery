@@ -23,6 +23,7 @@ public class TerminalOps {
 
         // 3. reduce: Combines elements to produce a single result
         Optional<Integer> optionalInteger = list.stream().reduce(Integer::sum);
+//        Optional<Integer> optionalInteger = list.stream().reduce((x,y)-> x + y);
         System.out.println(optionalInteger.get());
 
         // 4. count
@@ -33,7 +34,7 @@ public class TerminalOps {
         System.out.println(b);
         boolean b1 = list.stream().allMatch(x -> x > 0);
         System.out.println(b1);
-        boolean b2 = list.stream().noneMatch(x -> x < 0);
+        boolean b2 = list.stream().noneMatch(x -> x < 0 );
         System.out.println(b2);
 
         // 6. findFirst, findAny
@@ -69,7 +70,7 @@ public class TerminalOps {
         List<Integer> integers = Arrays.asList(1, 2, 3, 4, 5);
         System.out.println(integers.stream().reduce(Integer::sum).get());
 
-        // Example:  Counting Occurrences of a Character
+        // Example: Counting Occurrences of a Character
         String sentence = "Hello world";
         System.out.println(sentence.chars().filter(x -> x == 'l').count());
 

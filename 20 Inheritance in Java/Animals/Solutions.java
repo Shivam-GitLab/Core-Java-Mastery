@@ -42,7 +42,7 @@ class Dog extends Animal{
     }
 }
 /************************************/
-public class Solution {
+public class Solutions {
     public static void main(String[] args) {
         Dog dog = new  Dog();
         Animal animal = new  Animal();

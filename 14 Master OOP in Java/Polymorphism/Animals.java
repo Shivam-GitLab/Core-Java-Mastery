@@ -1,10 +1,12 @@
-public class Animal {
+package Polymorphism;
+
+public class Animals {
     public void makeSound() {
         System.out.println("Animal makes a sound");
     }
     
     public static void main(String[] args) {
-        Animal animal1 = new Animal();
+        Animals animal1 = new Animals();
         animal1.makeSound();
 
         Cat cat = new Cat();
@@ -13,22 +15,22 @@ public class Animal {
         Dog dog = new Dog();
         dog.makeSound();
 
-        Animal animal2 = new Cat();
+        Animals animal2 = new Cat();
         animal2.makeSound();
 
     
-        Animal animal3 = new Dog();
+        Animals animal3 = new Dog();
         animal3.makeSound();
     }
 }
 
-class Cat extends Animal {
+class Cat extends Animals {
     @Override
     public void makeSound() {
         System.out.println("Cat meows");
     }
 }
-class Dog extends Animal {
+class Dog extends Animals {
     // @Override
     @Override
     public void makeSound() {

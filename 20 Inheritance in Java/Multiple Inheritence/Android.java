@@ -1,3 +1,4 @@
+package MultipleInheritence;
 class Camera{
     void clickPhoto(){
         System.out.println("Clicked Photo");

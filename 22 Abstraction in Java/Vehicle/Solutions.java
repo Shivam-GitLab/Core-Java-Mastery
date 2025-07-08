@@ -33,7 +33,7 @@ class Bike extends Vehicle{
     }
 }
 
-public class Solution{
+public class Solutions{
     public static void main(String[] args) {
         Vehicle car = new Car();
         car.accelerate();
