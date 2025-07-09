@@ -1,6 +1,3 @@
-
-
-
 public class Solution {
     public static void main(String[] args) {
         int[] numerators = { 10, 200, 30, 40 };

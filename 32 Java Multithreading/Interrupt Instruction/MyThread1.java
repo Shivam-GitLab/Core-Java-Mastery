@@ -1,4 +1,4 @@
-public class MyThread extends Thread {
+public class MyThread1 extends Thread {
     @Override
     public void run() {
         try {
@@ -10,7 +10,7 @@ public class MyThread extends Thread {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        MyThread t1 = new MyThread();
+        MyThread1 t1 = new MyThread1();
         t1.start();
         t1.interrupt();
     }

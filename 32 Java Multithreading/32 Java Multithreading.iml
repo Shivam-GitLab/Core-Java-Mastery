@@ -5,7 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Java Locks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Set Daemon" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Thread Cycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Thread Cycle" isTestSource="false" packagePrefix="SetDaemon" />
       <sourceFolder url="file://$MODULE_DIR$/Thread Interruted" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Thread Priority" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Thread Synchronization" isTestSource="false" />

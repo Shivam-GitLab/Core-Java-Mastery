@@ -1,5 +1,5 @@
 
-class World extends Thread {
+class World1 extends Thread {
     @Override
     public void run() {
         for (int i = 0; i < 10; i++) {
@@ -16,7 +16,7 @@ public class Hello1 {
             // System.out.println(Thread.currentThread().getName());
         }
 
-        World world = new World();
+        World1 world = new World1();
         world.start();
     }
 }

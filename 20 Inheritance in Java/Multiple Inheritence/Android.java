@@ -1,4 +1,4 @@
-package MultipleInheritence;
+
 class Camera{
     void clickPhoto(){
         System.out.println("Clicked Photo");
@@ -31,7 +31,7 @@ class Phone{
 
 public class Android {
     public static void main(String[] args) {
-        SmartPhone smartPhone = new SmartPhone();
-        smartPhone.clickPhoto();
+/*        SmartPhone smartPhone = new SmartPhone();
+        smartPhone.clickPhoto();*/
     }
 }

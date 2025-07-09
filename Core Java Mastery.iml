@@ -14,13 +14,20 @@
       <sourceFolder url="file://$MODULE_DIR$/09 Java Strings Explained" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10 Java String Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/14 Master OOP in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15 Methods in Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/16 Easiest Way to Learn Recursion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/18 Encapsulation in Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19 Constructors in Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21 Polymorphism in Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24 Mastering Static in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25 Mastering the Final Keyword in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 Mastering Java Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27 Exploring Inner Classes in Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/28 Master Exceptions in Java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/34 Java Generics Explained" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29 Wrapper Classes in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30 Master Math in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/31 Enums in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/33 Volatile Vs Atomic in Java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
