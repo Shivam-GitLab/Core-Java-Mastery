@@ -1,4 +1,4 @@
-package Generic.src.Generics;
+package Generics;
 
 class GenBox<T extends Number> {
     private T value;

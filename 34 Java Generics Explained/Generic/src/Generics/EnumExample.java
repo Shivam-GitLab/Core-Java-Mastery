@@ -1,4 +1,4 @@
-package Generic.src.Generics;
+package Generics;
 
 enum Operation {
     ADD, SUBTRACT, MULTIPLY, DIVIDE;

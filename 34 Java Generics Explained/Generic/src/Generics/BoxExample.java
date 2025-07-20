@@ -2,7 +2,7 @@ package Generic.src.Generics;
 
 class Box<T> {
     /*
-    Boundation -> Integer , Float,
+    Boundation  -> Integer , Float,
     Not String
     class Box<T extends Number> {
 

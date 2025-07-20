@@ -1,4 +1,4 @@
-package Generic.src.Generics;
+package Generics;
 interface Printable{
     void print();
 }

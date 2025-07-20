@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/01 Thread Class/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/01 Thread Class/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/02 Implement Runnable/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/02 Implement Runnable/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Interrupt Instruction/MyThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Interrupt Instruction/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/BoxExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/BoxExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/EnumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenericContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenericContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricConsc.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricConsc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/MyNumExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/MyNumExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/PairExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/PairExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/BoxExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/EnumExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/GenBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/GenericContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/GenricConsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/GenricMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/MyBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/MyNumExam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/MyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/NotGenricBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/PairExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/34 Java Generics Explained/Generic/src/Generics/Printable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +71,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BoxExample.executor": "Run",
+    "Application.Hello1.executor": "Run",
+    "Application.Hello2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\Core Java Mastery\32 Java Multithreading" />
+      <recent name="S:\Core Java Mastery\34 Java Generics Explained" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +109,9 @@
       <option name="presentableId" value="Default" />
       <updated>1752078798141</updated>
       <workItem from="1752078801370" duration="53000" />
-      <workItem from="1752083332429" duration="177000" />
+      <workItem from="1752083332429" duration="890000" />
+      <workItem from="1752148613429" duration="291000" />
+      <workItem from="1752148949790" duration="616000" />
     </task>
     <servers />
   </component>
