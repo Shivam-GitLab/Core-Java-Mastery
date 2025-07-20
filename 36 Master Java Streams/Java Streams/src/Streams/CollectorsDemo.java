@@ -87,6 +87,7 @@ public class CollectorsDemo {
         System.out.println(items.values().stream().reduce(Integer::sum));
         System.out.println(items.values().stream().collect(Collectors.summingInt(x -> x)));
 
+        //
         // Example 5: Creating a Map from Stream Elements
         List<String> fruits = Arrays.asList("Apple", "Banana", "Cherry");
         System.out.println(fruits.stream().collect(Collectors.toMap(x -> x.toUpperCase(), x -> x.length())));
